@@ -1,0 +1,5 @@
+﻿  pch.cpp
+F:\Projects\s6380-200\gif.hpp(317,13): warning C4018: “>=”: 有符号/无符号不匹配
+  (编译源文件“pch.cpp”)
+  
+  s6380-200.vcxproj -> F:\Projects\s6380-200\Debug\s6380-200.exe

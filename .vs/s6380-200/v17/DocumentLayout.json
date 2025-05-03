@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\s6380-200\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|F:\\Projects\\s6380-200\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|solutionrelative:pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|F:\\Projects\\s6380-200\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|solutionrelative:pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|F:\\Projects\\s6380-200\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|F:\\Projects\\s6380-200\\uboo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|solutionrelative:uboo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|F:\\Projects\\s6380-200\\uboo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|solutionrelative:uboo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|F:\\Projects\\s6380-200\\tool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|solutionrelative:tool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|F:\\Projects\\s6380-200\\list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|solutionrelative:list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|F:\\Projects\\s6380-200\\list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5012A1F4-0DB4-4DF8-80C9-A7995536CD44}|s6380-200.vcxproj|solutionrelative:list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tool.h",
+              "DocumentMoniker": "F:\\Projects\\s6380-200\\tool.h",
+              "RelativeDocumentMoniker": "tool.h",
+              "ToolTip": "F:\\Projects\\s6380-200\\tool.h",
+              "RelativeToolTip": "tool.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T09:28:38.93Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "uboo.h",
+              "DocumentMoniker": "F:\\Projects\\s6380-200\\uboo.h",
+              "RelativeDocumentMoniker": "uboo.h",
+              "ToolTip": "F:\\Projects\\s6380-200\\uboo.h",
+              "RelativeToolTip": "uboo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T11:10:57.47Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "F:\\Projects\\s6380-200\\pch.cpp",
+              "RelativeDocumentMoniker": "pch.cpp",
+              "ToolTip": "F:\\Projects\\s6380-200\\pch.cpp",
+              "RelativeToolTip": "pch.cpp",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAUwIsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T14:26:55.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "uboo.cpp",
+              "DocumentMoniker": "F:\\Projects\\s6380-200\\uboo.cpp",
+              "RelativeDocumentMoniker": "uboo.cpp",
+              "ToolTip": "F:\\Projects\\s6380-200\\uboo.cpp",
+              "RelativeToolTip": "uboo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T12:51:08.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "list.cpp",
+              "DocumentMoniker": "F:\\Projects\\s6380-200\\list.cpp",
+              "RelativeDocumentMoniker": "list.cpp",
+              "ToolTip": "F:\\Projects\\s6380-200\\list.cpp",
+              "RelativeToolTip": "list.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-30T11:10:17.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "list.h",
+              "DocumentMoniker": "F:\\Projects\\s6380-200\\list.h",
+              "RelativeDocumentMoniker": "list.h",
+              "ToolTip": "F:\\Projects\\s6380-200\\list.h",
+              "RelativeToolTip": "list.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T11:10:09.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pch.h",
+              "DocumentMoniker": "F:\\Projects\\s6380-200\\pch.h",
+              "RelativeDocumentMoniker": "pch.h",
+              "ToolTip": "F:\\Projects\\s6380-200\\pch.h",
+              "RelativeToolTip": "pch.h",
+              "ViewState": "AQIAACYAAAAAAAAAAAAewDMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T12:19:57.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\Projects\\s6380-200\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "F:\\Projects\\s6380-200\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-29T16:44:15.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
